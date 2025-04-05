@@ -54,8 +54,6 @@ cd try-devnet/packages/contract/
 bash script/deploy.sh
 ```
 
----
-
 ## Interact with an Encrypted Contract
 
 ### 1. Navigate to Home Directory
