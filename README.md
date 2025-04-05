@@ -1,9 +1,5 @@
 # Ntekearning
 
-Sure! Here's your **Seismic Devnet Contract Deploy Guide** converted into a clean, structured **Markdown README** format for GitHub:
-
----
-
 # Seismic Devnet Contract Deploy Guide
 
 ## Pre-Requirements
@@ -82,12 +78,3 @@ bun install
 ```bash
 bash script/transact.sh
 ```
-
----
-
-Let me know if you'd like to add:
-- A **badge/status section** (e.g., CI status, version, license)
-- A **Troubleshooting or FAQ section**
-- **Screenshots or demo commands**
-
-Want me to save this as a downloadable `.md` file for you?
